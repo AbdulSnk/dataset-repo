@@ -1,4 +1,4 @@
-[{"id":1,"Name":"Pearle Cruess","Email Adress":"pcruess0@jigsy.com","Role":"Super Admin","Use Status":"Online"},
+[{"id":1,"name":"Pearle Cruess","email":"pcruess0@jigsy.com","role":"Super Admin","status":"Online"},
 {"id":2,"Name":"Marice Brownell","Email Adress":"mbrownell1@redcross.org","Role":"Admin","Use Status":"Offline"},
 {"id":3,"Name":"Hesther Mullin","Email Adress":"hmullin2@sbwire.com","Role":"Super Admin","Use Status":"Offline"},
 {"id":4,"Name":"Susanna Beckley","Email Adress":"sbeckley3@naver.com","Role":"Super Admin","Use Status":"Offline"},
